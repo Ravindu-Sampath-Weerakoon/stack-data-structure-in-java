@@ -1,6 +1,6 @@
 public class StackNode {
-    StackNode next;
-    int data;
+    private StackNode next;
+    private int data;
 
     public StackNode(int data) {
         this.data = data;
